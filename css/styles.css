@@ -1,0 +1,46 @@
+
+#nav-id1{
+    position: relative;
+}
+#nav-id2{
+    position: relative;
+    background-color: rgb(54, 54, 58);
+    line-height: 0.5;
+}
+#search-navbar1{
+    width:150%;
+}
+.form-search-style{
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+    background-color: #b6bbc0;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s;   
+}
+.navbar-dark{
+    background-color: rgb(108, 199, 161);
+}
+#loginmodal-button{
+    
+}
+    .carousel .carousel-item {
+      height: 300px; }
+      .carousel .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 100%; 
+    }
+    .line-height-3{
+    line-height: 3;
+    }
+.img-fluid{
+    min-width: 100%;
+    min-height: 100%;    
+}
